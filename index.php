@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <ul>
+        <li><a href="#">menambahkan list</a></li>
+        <li><a href="#">menambahkan list</a></li>
+        <li><a href="#">menambahkan list</a></li>
+    </ul>
 </body>
 </html>
